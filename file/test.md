@@ -2,11 +2,11 @@
 
 某沙雕：
 
-![msd](https://cdn.jsdelivr.net/gh/UWillno/blogImage@main/img/Lzh.jpg)
+<img src="https://cdn.jsdelivr.net/gh/UWillno/blogImage@main/img/Lzh.jpg" alt="msd" width="100%" />
 
 再来张图试试
 
-![cesi](https://cdn.jsdelivr.net/gh/UWillno/blogImage@main/img/test.jpg)
+<img src="https://cdn.jsdelivr.net/gh/UWillno/blogImage@main/img/test.jpg" width="100%" />
 
 | 表格 | 测试 | 1    |
 | ---- | ---- | ---- |
